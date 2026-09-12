@@ -1,0 +1,13 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+.vs/
+.idea/
+.vscode/
+
+*.sln
+*.suo
+
+.DS_Store
