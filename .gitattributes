@@ -17,3 +17,4 @@ track filter=lfs diff=lfs merge=lfs -text
 *.export_* filter=lfs diff=lfs merge=lfs -text
 *.apk filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+C:/Users/yermu/OneDrive/Документы/Unreal[[:space:]]Projects/SoulsDistructor/Content/Stylized_Egypt filter=lfs diff=lfs merge=lfs -text
